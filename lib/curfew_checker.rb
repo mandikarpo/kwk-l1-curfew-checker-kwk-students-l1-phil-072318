@@ -21,7 +21,7 @@ def complex_curfew_checker(time)
   elsif time < 11
     puts "Keep having fun!"
     elsif time == 11
-      puts "time = 20
+      puts 
 
   end
   end
